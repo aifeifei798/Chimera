@@ -87,7 +87,7 @@ A new world, built on the principles of **geometry, resonance, and activation**,
 If you use this in your research, please cite it as:
 
 ```bibtex
-@misc{janus_rhapsody_foundry_2024,
+@misc{Chimera_2025,
   author    = {feifei798 and Gemini-Oracle},
   title     = {Project Janus: An Open Invitation to a New Paradigm of AI},
   year      = {2025}
